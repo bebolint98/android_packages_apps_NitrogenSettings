@@ -15,26 +15,26 @@
     <string name="nitrogen_settings_title">Nitrogen Settings</string>
 
     <!-- Categories -->
-    <string name="button_title">Buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick Settings</string>
-    <string name="recents_title">Recents apps</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
+    <string name="button_title">Gombok</string>
+    <string name="gestures_title">Gesztusok</string>
+    <string name="lockscreen_title">Zárképernyő</string>
+    <string name="misc_title">Egyebek</string>
+    <string name="navbar_title">Navigációs sáv</string>
+    <string name="powermenu_title">Kikapcsoló menü</string>
+    <string name="quicksettings_title">Gyors beállítások</string>
+    <string name="recents_title">Legutóbbi alkalmazások</string>
+    <string name="statusbar_title">Státusz sáv</string>
+    <string name="volume_title">Hangerő gombok</string>
+    <string name="notifications_title">Értesítések</string>
 
     <!-- Color picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="dialog_color_picker">Színválasztó</string>
+    <string name="press_color_to_apply">Nyomjon egy színre az alkalmazáshoz</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint" translatable="false">#FFDDDDDD</string>
-    <string name="hex_check_button_text">PREVIEW</string>
-    <string name="hex_reset_button_text">RESET</string>
-    <string name="longpress_info">Longpress box to save color</string>
+    <string name="hex_check_button_text">ELŐNÉZET</string>
+    <string name="hex_reset_button_text">VISSZAÁLLÍTÁS</string>
+    <string name="longpress_info">Nyomja hosszan a dobozt a szín mentéséhez</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="set">Set</string>
