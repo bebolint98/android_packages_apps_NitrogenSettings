@@ -379,23 +379,23 @@
     <string name="fling_longpress_summary">Növelheti vagy csökkentheti a hosszan nyomás művelet idejét</string>
 
     <!-- Pulse navigation bar music visualizer -->
-    <string name="pulse_help_policy_notice_title">About Pulse</string>
-    <string name="pulse_help_policy_notice_summary">Pulse is a brilliant audio graphic equalizer on the navigation bar when music plays. Pulse does not work with some audio sources when listening on device speaker</string>
+    <string name="pulse_help_policy_notice_title">A Pulse-ról</string>
+    <string name="pulse_help_policy_notice_summary">A Pulse egy briliáns hang grafikus equalizer a navigációs sávon, amikor a zenét játszik le. A Pulse nem működik néhány hangforrások hallgatása közben, a készülék hangszórójáról</string>
     <string name="pulse_settings">Pulse</string>
-    <string name="pulse_settings_summary">Navigation bar audio graphic equalizer</string>
-    <string name="fling_show_pulse_title">Show Pulse</string>
-    <string name="fling_show_pulse_summary">Audio graphic equalizer on the navigation bar</string>
-    <string name="pulse_render_mode_title">Render mode</string>
-    <string name="pulse_render_mode_fading_bars">Fading blocks</string>
-    <string name="pulse_render_mode_solid_lines">Solid lines</string>
-    <string name="fling_pulse_color">Pulse color</string>
-    <string name="eos_fling_lavalamp_title">Turn on Lava Lamp</string>
-    <string name="eos_fling_lavalamp_summary">Pulse animates a smooth lava lamp style color blend</string>
-    <string name="pulse_advanced_category">Advanced</string>
-    <string name="pulse_legacy_mode_advanced_category">Fading blocks mode settings</string>
-    <string name="pulse_custom_fudge_factor">Sanity level</string>
-    <string name="lavamp_solid_speed_title">Lava Lamp speed</string>
-    <string name="pulse_solid_dimen_category">Solid lines mode settings</string>
+    <string name="pulse_settings_summary">Navigációs sáv audio grafikus hangszínszabályzó</string>
+    <string name="fling_show_pulse_title">Pulse mutatása</string>
+    <string name="fling_show_pulse_summary">Hang grafikus equalizer a navigációs sávon</string>
+    <string name="pulse_render_mode_title">Renderelési mód</string>
+    <string name="pulse_render_mode_fading_bars">Elhalványuló blokkok</string>
+    <string name="pulse_render_mode_solid_lines">Folytonos vonalak</string>
+    <string name="fling_pulse_color">Pulse szín</string>
+    <string name="eos_fling_lavalamp_title">Láva Lámpa bekapcsolása</string>
+    <string name="eos_fling_lavalamp_summary">Pulse animál, egysima láva lámpa stílusú színkeverést</string>
+    <string name="pulse_advanced_category">Haladó</string>
+    <string name="pulse_legacy_mode_advanced_category">Elhalványuló blokkok üzemmódjának beállítása</string>
+    <string name="pulse_custom_fudge_factor">Józansági szint</string>
+    <string name="lavamp_solid_speed_title">Láva Lámpa sebesség</string>
+    <string name="pulse_solid_dimen_category">Folytonos vonalak üzemmód beállításai</string>
 
     <!-- Pulse config -->
     <string name="pulse_custom_dimen">Bar width</string>
